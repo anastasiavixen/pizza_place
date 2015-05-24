@@ -1,0 +1,11 @@
+[
+{"id":"1","name":"The Bay Special","locationId":"3","pizzaType":"veggie"},
+{"id":"2","name":"Meat-a-tronic","locationId":"1","pizzaType":"meat"},
+{"id":"3","name":"Bacon-Love","locationId":"2","pizzaType":"meat"},
+{"id":"4","name":"Cheese Moon","locationId":"1","pizzaType":"cheese"},
+{"id":"5","name":"The Three Meats","locationId":"3","pizzaType":"meat"},
+{"id":"6","name":"Forest of Broccoli","locationId":"1","pizzaType":"veggie"},
+{"id":"7","name":"The Three Cheeses of Italy","locationId":"2","pizzaType":"cheese"},
+{"id":"8","name":"The Golden Cheese","locationId":"3","pizzaType":"cheese"},
+{"id":"9","name":"Veggie-Love","locationId":"2","pizzaType":"veggie"}
+]
