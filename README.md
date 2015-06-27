@@ -1,0 +1,1 @@
+This is a simple js example, with a more functional js structure, and also using json structures for the data. Quick and simple!
